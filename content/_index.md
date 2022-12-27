@@ -12,6 +12,8 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use spaced- and ground- based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects.
+      
+      I am a member of the <a href="https://astro.physics.unimelb.edu.au/" target="_blank">Uni Melbourne Astrophysics Group</a> and a Chief Investigator of the <a href="https://www.ozgrav.org/" target="_blank">ARC Center of Excellence OzGrav 2</a>.
     design:
       background:
         color: black
@@ -74,8 +76,8 @@ sections:
           company_url: 'https://ccapp.osu.edu/'
           company_logo: OSU
           location: Columbus, Ohio, USA
-          date_start: '2018-08-01'
-          date_end: '2019-08-31'
+          date_start: '2015-08-01'
+          date_end: '2018-08-31'
           description:
     design:
       columns: '2'
