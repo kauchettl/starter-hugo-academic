@@ -23,7 +23,7 @@ sections:
             brightness: 0.4
           size: cover
           position: center
-          parallax: false
+          parallax: true
   - block: experience
     id: employment
     content:
