@@ -82,6 +82,8 @@ sections:
           description:
     design:
       columns: '2'
+      background:
+      image: background.jpg
   - block: experience
     id: education
     content:
