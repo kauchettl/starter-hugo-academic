@@ -83,7 +83,7 @@ sections:
     design:
       columns: '2'
       background:
-      image: background.jpg
+      color: 'navy'
   - block: experience
     id: education
     content:
