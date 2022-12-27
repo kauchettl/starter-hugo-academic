@@ -12,19 +12,19 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use spaced- and ground- based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects.
-      # image: background.jpg
-      # Name of image in `assets/media/`.
-      # image: aurora4.jpg
-      # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-      # image_darken: 1
-      #  Options are `cover` (default), `contain`, or `actual` size.
-      # image_size: cover
-      # Options include `left`, `center` (default), or `right`.
-      # image_position: center
-      # Use a fun parallax-like fixed background effect on desktop? true/false
-      # image_parallax: true
-      # Text color (true=light, false=dark, or remove for the dynamic theme color).
-      # text_color_light: true
+     design:
+      columns: '2'
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: background.jpg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: false
   - block: experience
     id: employment
     content:
@@ -80,17 +80,6 @@ sections:
           description:
     design:
       columns: '2'
-      background:
-        color: black
-        text_color_light: true
-        image:
-          # Add your image background to `assets/media/`.
-          filename: background.jpg
-          filters:
-            brightness: 0.4
-          size: cover
-          position: center
-          parallax: false
   - block: experience
     id: education
     content:
