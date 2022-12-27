@@ -68,8 +68,7 @@ sections:
     design:
       columns: '2'
       background:
-      color: 'navy'
-      text_color_light: true
+      color: 'red'
   - block: experience
     id: education
     content:
