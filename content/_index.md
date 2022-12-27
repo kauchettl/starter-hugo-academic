@@ -80,6 +80,17 @@ sections:
           description:
     design:
       columns: '2'
+      background:
+        color: black
+        text_color_light: true
+        image:
+          # Add your image background to `assets/media/`.
+          filename: background.jpg
+          filters:
+            brightness: 0.4
+          size: cover
+          position: center
+          parallax: false
   - block: experience
     id: education
     content:
