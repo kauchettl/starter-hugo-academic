@@ -82,7 +82,7 @@ sections:
           description:
     design:
       background:
-      color: 'navy'
+      color: 'red'
       columns: '2'
   - block: experience
     id: education
