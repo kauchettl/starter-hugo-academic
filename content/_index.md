@@ -81,9 +81,9 @@ sections:
           date_end: '2019-08-31'
           description:
     design:
-      columns: '2'
       background:
       color: 'navy'
+      columns: '2'
   - block: experience
     id: education
     content:
