@@ -35,5 +35,5 @@ social:
     icon: linkedin
     link: https://www.linkedin.com/in/katie-auchettl-a50a4a58/
     label: LinkedIn
-superuser: true
+superuser: false
 ---
