@@ -62,7 +62,7 @@ sections:
           date_end: ''
           description: 
         - title: Assistant Professor
-          company: ARK Cosmology Center & Niels Bohr Institute, University of Copenhagen
+          company: DARK Cosmology Center & Niels Bohr Institute, University of Copenhagen
           company_url: 'https://dark.nbi.ku.dk/'
           company_logo: unicph
           location: Copenhagen, Denmark
