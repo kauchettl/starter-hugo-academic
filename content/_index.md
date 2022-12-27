@@ -115,7 +115,6 @@ sections:
         You can send me an email using the following form:
       # Contact (add or remove contact options as necessary)
       email: katie.auchettl@unimelb.edu.au
-      phone: +61 3 834 46492
       address:
         street: Office 311, Swanston St & Tin Alley
         city: Parkville
@@ -123,7 +122,7 @@ sections:
         postcode: '3052'
         country: Australia
         country_code: AU
-      directions: <a href="https://maps.unimelb.edu.au/point?poi=663141" target="_blank">see directions</a>
+      directions: <a href="https://maps.unimelb.edu.au/dir?pointB=659833" target="_blank">see directions</a>
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
