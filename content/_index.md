@@ -13,8 +13,6 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use spaced- and ground- based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects.
     design:
-     background:
-      color: 'navy'
       # image: background.jpg
       # Name of image in `assets/media/`.
       # image: aurora4.jpg
@@ -82,8 +80,6 @@ sections:
           date_end: '2019-08-31'
           description:
     design:
-      background:
-       color: 'navy'
       columns: '2'
   - block: experience
     id: education
