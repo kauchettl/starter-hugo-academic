@@ -84,7 +84,8 @@ sections:
           description:
     design:
       background:
-      color: 'red'
+       color: 'navy'
+       text_color_light: true
       columns: '2'
   - block: experience
     id: education
