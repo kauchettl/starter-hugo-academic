@@ -15,7 +15,6 @@ sections:
     design:
      background:
       color: 'navy'
-      text_color_light: true
       # image: background.jpg
       # Name of image in `assets/media/`.
       # image: aurora4.jpg
@@ -84,7 +83,7 @@ sections:
           description:
     design:
       background:
-       image: background.jpg
+       color: 'navy'
       columns: '2'
   - block: experience
     id: education
