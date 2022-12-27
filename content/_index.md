@@ -56,7 +56,7 @@ sections:
         - title: Assistant Adjunct Professor
           company: University of California Santa Cruz
           company_url: 'https://www.ucsc.edu/'
-          company_logo: UCSC
+          company_logo: UCSC2
           location: Santa Cruz, California, USA
           date_start: '2019-01-01'
           date_end: ''
