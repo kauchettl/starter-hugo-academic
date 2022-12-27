@@ -12,15 +12,15 @@ sections:
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
       text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use spaced- and ground- based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects.
-     design:
-    background:
-    # Choose colors such as from https://html-color-codes.info
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    # The gradient angle from 0-360 degrees
-    gradient_angle: 180
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    design:
+     background:
+      # Choose colors such as from https://html-color-codes.info
+      gradient_start: '#4bb4e3'
+      gradient_end: '#2b94c3'
+      # The gradient angle from 0-360 degrees
+      gradient_angle: 180
+      # Text color (true=light, false=dark, or remove for the dynamic theme color).
+      text_color_light: true
   - block: experience
     id: employment
     content:
