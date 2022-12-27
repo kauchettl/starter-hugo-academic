@@ -123,8 +123,7 @@ sections:
   - block: markdown
     content:
      title: Publications
-     subtitle: My subtitle
-     text: You can find my publications on <a href="https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+     text: You can find all my publications on <a href="https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en" target="_blank">Google Scholar</a>.
     design:
      columns: '2'
   - block: contact
