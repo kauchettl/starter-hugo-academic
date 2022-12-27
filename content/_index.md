@@ -44,7 +44,7 @@ sections:
         - title: Assistant Adjunct Professor
           company: University of California Santa Cruz
           company_url: 'https://www.ucsc.edu/'
-          company_logo: unimelb
+          company_logo: UCSC
           location: Santa Cruz, California, USA
           date_start: '2019-01-01'
           date_end: ''
@@ -60,7 +60,7 @@ sections:
         - title: CCAP Postdoctoral Fellow
           company: The Center for Astro-particle Physics and Cosmology, The Ohio State University
           company_url: 'https://ccapp.osu.edu/'
-          company_logo: mphq
+          company_logo: OSU
           location: Columbus, Ohio, USA
           date_start: '2018-08-01'
           date_end: '2019-08-31'
@@ -83,7 +83,7 @@ sections:
         - title: PhD in Physics
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: PSU_seal
+          company_logo: MonashUniversity
           location: Melbourne, Australia
           date_start: '2012-08-01'
           date_end: '2015-07-31'
@@ -99,7 +99,7 @@ sections:
         - title: BSc (Honors) in Physics and Mathematics
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: hu-berlin
+          company_logo: MonashUniversity
           location: Melbourne, Australia
           date_start: '2007-10-01'
           date_end: '2010-09-30'
