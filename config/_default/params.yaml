@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: 'I acknowedge and pay my respects to the Wurundjeri Elders and peoples of the Kulin Nation, the Traditional Owners of the land on which I live and work.<BR>© {year} Me. This work is licensed under {license}'
+    notice: 'I acknowedge and pay my respects to the Wurundjeri Elders and peoples of the Kulin Nation, the Traditional Owners of the land on which I live and work.<BR><BR>© {year} Me. This work is licensed under {license}'
     license:
       enable: true
       allow_derivatives: false
