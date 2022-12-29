@@ -132,7 +132,7 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        You can send me an email using the following form:
+      #  You can send me an email using the following form:
       # Contact (add or remove contact options as necessary)
       email: katie.auchettl@unimelb.edu.au
       address:
