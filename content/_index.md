@@ -95,7 +95,7 @@ sections:
         - title: PhD in Physics
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: MonashUniversity
+          company_logo: MonashUniversity-inverted
           location: Melbourne, Australia
           date_start: '2012-08-01'
           date_end: '2015-07-31'
@@ -111,7 +111,7 @@ sections:
         - title: BSc (Honors) in Physics and Mathematics
           company: Monash University
           company_url: 'https://www.monash.edu/'
-          company_logo: MonashUniversity
+          company_logo: MonashUniversity-inverted
           location: Melbourne, Australia
           date_start: '2007-10-01'
           date_end: '2010-09-30'
@@ -146,13 +146,13 @@ sections:
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider
-      form:
-        provider: netlify
-        formspree:
-          id:
-        netlify:
-          # Enable CAPTCHA challenge to reduce spam?
-          captcha: false
+      #form:
+      #  provider: netlify
+      #  formspree:
+      #    id:
+      #  netlify:
+      #    # Enable CAPTCHA challenge to reduce spam?
+      #    captcha: false
     design:
       columns: '2'
 ---
