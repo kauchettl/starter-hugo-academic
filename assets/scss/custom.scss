@@ -1,0 +1,23 @@
+.wg-about-avatar {
+  // Custom avatar size on homepage
+  .avatar {
+    width: auto;
+    height: auto;
+    max-width: 150px;
+    max-height: 150px;
+  }
+}
+
+.avatar-wrapper {
+  position: relative;
+  width: 150px; // Match image size in about.avatar widget
+  height: 150px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#profile {
+  text-align: center;
+  padding: 10px 10px;
+  position: relative;
+}
