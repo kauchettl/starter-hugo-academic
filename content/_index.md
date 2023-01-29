@@ -134,7 +134,7 @@ sections:
       text: |-
       #  You can send me an email using the following form:
       # Contact (add or remove contact options as necessary)
-      email: katie.auchettl@unimelb.edu.au
+      email: katie[dot]auchettl[at]unimelb[dot]edu[dot]au
       address:
         street: Office 311, Swanston St & Tin Alley
         city: Parkville
@@ -152,7 +152,7 @@ sections:
       #    id:
       #  netlify:
       #    # Enable CAPTCHA challenge to reduce spam?
-      #    captcha: false
+      #    captcha: true
     design:
       columns: '2'
 ---
