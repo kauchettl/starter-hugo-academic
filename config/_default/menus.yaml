@@ -15,7 +15,7 @@ main:
 #    weight: 30
   - name: Research
  #   url: 'https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en'
-    url: '#research'
+    url: '#publications'
     weight: 90 
   - name: Contact
     url: '#contact'
