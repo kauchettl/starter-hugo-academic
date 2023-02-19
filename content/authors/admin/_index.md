@@ -23,17 +23,17 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en
     label: Google Scholar
-  - display:
-    header: true
-    icon_pack: fab
-    icon: github
-    link: https://github.com/kauchettl
-    label: GitHub
-  - display:
-    header: true
-    icon_pack: fab
-    icon: linkedin
-    link: https://www.linkedin.com/in/katie-auchettl-a50a4a58/
-    label: LinkedIn
+ # - display:
+ #   header: true
+ #   icon_pack: fab
+ #   icon: github
+ #   link: https://github.com/kauchettl
+ #   label: GitHub
+ # - display:
+ #   header: true
+ #   icon_pack: fab
+ #   icon: linkedin
+ #   link: https://www.linkedin.com/in/katie-auchettl-a50a4a58/
+ #   label: LinkedIn
 superuser: false
 ---
