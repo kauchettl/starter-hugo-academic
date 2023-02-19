@@ -124,10 +124,10 @@ sections:
 #      columns: '2'
 #      background:
 #      color: 'red' -->
-  - block: Research
+  - block: markdown
     content:
      title: Research
-     text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use space- and ground-based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects. <br><br> Most up to date publication list can be found here: <a href="https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en" target="_blank">Google Scholar</a>.
+     text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use space- and ground-based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects. <br><br> You can find all my publications on <a href="https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en" target="_blank">Google Scholar</a>.
     design:
      columns: '2' 
   - block: contact
