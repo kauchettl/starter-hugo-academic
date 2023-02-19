@@ -13,10 +13,10 @@ main:
 #  - name: Education
 #    url: '#education'
 #    weight: 30
-  - name: Publications
-#    url: 'https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en'
-    url: '#publications'
-    weight: 90
+  - name: Research
+ #   url: 'https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en'
+    url: '#research'
+    weight: 90 
   - name: Contact
     url: '#contact'
     weight: 100
