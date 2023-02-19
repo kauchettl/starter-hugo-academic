@@ -10,11 +10,14 @@ main:
   - name: Employment
     url: '#employment'
     weight: 20
-  - name: Education
-    url: '#education'
-    weight: 30
+#  - name: Education
+#    url: '#education'
+#    weight: 30
   - name: Publications
     url: 'https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en'
+    weight: 90
+  - name: About
+    url: #about
     weight: 90
   - name: Contact
     url: '#contact'
