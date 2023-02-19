@@ -120,10 +120,10 @@ sections:
 #          date_start: '2007-10-01'
 #          date_end: '2010-09-30'
 #          description:
-    design:
-      columns: '2'
-      background:
-      color: 'red' -->
+#    design:
+#      columns: '2'
+#      background:
+#      color: 'red' -->
   - block: markdown
     content:
      title: Publications
