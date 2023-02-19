@@ -96,30 +96,30 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 #       items:
-        - title: PhD in Physics
-          company: Monash University
-          company_url: 'https://www.monash.edu/'
-          company_logo: MonashUniversity-inverted
-          location: Melbourne, Australia
-          date_start: '2012-08-01'
-          date_end: '2015-07-31'
-          description: 
-        - title: MSc in Physics (Perimeter Scholars International)
-          company: University of Waterloo & Perimeter Institute for Theoretical Physics
-          company_url: 'https://perimeterinstitute.ca/psi-masters-program'
-          company_logo: UWaterloo
-          location: Waterloo, Ontario, Canada
-          date_start: '2011-10-01'
-          date_end: '2012-09-30'
-          description: 
-        - title: BSc (Honors) in Physics and Mathematics
-          company: Monash University
-          company_url: 'https://www.monash.edu/'
-          company_logo: MonashUniversity-inverted
-          location: Melbourne, Australia
-          date_start: '2007-10-01'
-          date_end: '2010-09-30'
-          description:
+#        - title: PhD in Physics
+#          company: Monash University
+#          company_url: 'https://www.monash.edu/'
+#          company_logo: MonashUniversity-inverted
+#          location: Melbourne, Australia
+#          date_start: '2012-08-01'
+#          date_end: '2015-07-31'
+ #         description: 
+ #       - title: MSc in Physics (Perimeter Scholars International)
+ #         company: University of Waterloo & Perimeter Institute for Theoretical Physics
+ #         company_url: 'https://perimeterinstitute.ca/psi-masters-program'
+ #         company_logo: UWaterloo
+ #         location: Waterloo, Ontario, Canada
+ #         date_start: '2011-10-01'
+ #         date_end: '2012-09-30'
+#          description: 
+#        - title: BSc (Honors) in Physics and Mathematics
+#          company: Monash University
+#          company_url: 'https://www.monash.edu/'
+#          company_logo: MonashUniversity-inverted
+#          location: Melbourne, Australia
+#          date_start: '2007-10-01'
+#          date_end: '2010-09-30'
+#          description:
     design:
       columns: '2'
       background:
