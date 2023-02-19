@@ -5,7 +5,7 @@
 
 main:
   - name: Home
-    url: '#home'
+    url: '#about'
     weight: 10
   - name: Employment
     url: '#employment'
@@ -16,9 +16,6 @@ main:
   - name: Publications
 #    url: 'https://scholar.google.com/citations?user=zTzMlEEAAAAJ&hl=en'
     url: '#publications'
-    weight: 90
-  - name: About Me
-    url: '#about'
     weight: 90
   - name: Contact
     url: '#contact'
