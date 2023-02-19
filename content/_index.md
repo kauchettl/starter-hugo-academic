@@ -11,7 +11,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: <br><br><br><br><br><br><br>
+      text: <br><br><br><br><br><br><br><br>
       # text: My research focuses on understanding the physical processes and observational signatures related to the extreme death of stars, and how these processes influence, and are influenced by their surrounding environment. In particular, I use space- and ground-based instruments to study tidal disruption events, black holes, supernovae, and their diffuse and compact objects.
       #  I am a member of the <a href="https://astro.physics.unimelb.edu.au/" target="_blank">Uni Melbourne Astrophysics Group</a> and a Chief Investigator of the <a href="https://www.ozgrav.org/" target="_blank">ARC Center of Excellence OzGrav 2</a>.
     design:
@@ -83,7 +83,7 @@ sections:
           description:
     design:
       columns: '2'
-  - block: experience
+<!--   - block: experience
     id: education
     content:
       title: Education
@@ -123,7 +123,7 @@ sections:
     design:
       columns: '2'
       background:
-      color: 'red'
+      color: 'red' -->
   - block: markdown
     content:
      title: Publications
